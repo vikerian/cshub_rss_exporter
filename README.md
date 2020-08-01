@@ -1,2 +1,2 @@
 # cshub_rss_exporter
-Just simple rss feed. Exports some categories links from cshub rss feed to .csv for better overview.
+Just simple rss feed exporter. Exports some categories links (now staticaly from cshub) rss feed to .csv for better overview.
