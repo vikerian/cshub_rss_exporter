@@ -6,9 +6,7 @@ import "os"
 import "encoding/csv"
 import "github.com/mmcdole/gofeed"
 
-const EXPORTFILE = "FeedExport.csv"
-const VERSION = "0.0.2"
-
+const ExportFile = "FeedExport.csv"
 
 var rss map[string]string
 
@@ -36,7 +34,7 @@ func main() {
 
 	/* open export file */
 	log.Println("Opening export file...")
-	file, err := os.Create(EXPORTFILE)
+	file, err := os.Create(ExportFile)
 	if err != nil {
 		log.Fatal(err)
 	}

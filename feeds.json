@@ -1,0 +1,15 @@
+{
+	"articles": [
+		"cshub.com": "https://www.cshub.com/rss/articles",
+		"root.cz": "https://www.root.cz/rss/clanky/" ],
+	"news": [
+		"cshub.com": "https://www.cshub.com/rss/news",
+		"root.cz": "https://www.root.cz/rss/zpravicky",
+		"thehackernews.com": "https://hnrss.org/newest"],
+	"whitepapers": [
+		"cshub.com": "https://www.cshub.com/rss/whitepapers"],
+	"attacks": [
+		"cshub.com": "https://www.cshub.com/rss/attacks"]
+}
+
+		
